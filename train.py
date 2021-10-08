@@ -10,8 +10,8 @@ from sklearn.linear_model import ElasticNet
 import mlflow
 import mlflow.sklearn
 
-tracking_uri = 'http://127.0.0.1:5000'
-mlflow.set_tracking_uri(tracking_uri)
+# tracking_uri = 'http://127.0.0.1:5000'
+# mlflow.set_tracking_uri(tracking_uri)
 
 def eval_metrics(actual, pred):
     rmse = np.sqrt(mean_squared_error(actual, pred))
