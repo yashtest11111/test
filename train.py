@@ -41,8 +41,8 @@ if __name__ == "__main__":
         print("  RMSE: %s" % rmse)
         print("  MAE: %s" % mae)
         print("  R2: %s" % r2)
-        tracking_uri = 'http://127.0.0.1:5000'
-        mlflow.set_tracking_uri(tracking_uri)
+        #tracking_uri = 'http://127.0.0.1:5000'
+        #mlflow.set_tracking_uri(tracking_uri)
         mlflow.log_param("alpha", alpha)
         mlflow.log_param("l1_ratio", l1_ratio)
         mlflow.log_metric("rmse", rmse)
