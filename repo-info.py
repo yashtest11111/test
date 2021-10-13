@@ -6,7 +6,7 @@ API_ENDPOINT = "http://115.115.91.60:5432/train"
 data = {
 	"url": "https://github.com/yashtest11111/test1.git",
 	"branch_name": "master",
-	"user_name": "yasd@af.com"
+	"user_name": "yash3@gmail.com"
 }
 # sending post request and saving response as response object
 r = requests.post(url = API_ENDPOINT, data = data)
