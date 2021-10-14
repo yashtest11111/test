@@ -9,4 +9,3 @@ dependencies:
     - mlflow>=1.0
     - boto3
     - scipy
-    - fastapi
