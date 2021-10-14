@@ -1,5 +1,6 @@
 import boto3
 import os
+import cv2
 import warnings
 import sys
 import pandas as pd
