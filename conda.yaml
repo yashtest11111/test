@@ -2,7 +2,7 @@ name: tutoriqal
 channels:
   - conda-forge
 dependencies:
-  - python=3.5
+  - python=3.7
   - pip
   - pip:
     - scikit-learn==0.23.2
