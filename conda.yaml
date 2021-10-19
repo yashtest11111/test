@@ -1,4 +1,4 @@
-name: tutorial
+name: tutoriqal
 channels:
   - conda-forge
 dependencies:
