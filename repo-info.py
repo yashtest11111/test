@@ -5,7 +5,7 @@ API_ENDPOINT = "http://115.115.91.60:5432/train"
 #API_ENDPOINT = "http://b6a5-115-119-250-30.ngrok.io/train"
 # data to be sent to api
 data = {
-	"url": "https://github.com/yashtest11111/test1.git",
+	"url": "https://github.com/yashtest11111/test5.git",
 	"branch_name": "master",
 	"user_name": "yash3@gmail.com"
 }
