@@ -1,8 +1,8 @@
 # importing the reqets library
 import requests
 # defining the api- endpoint
-API_ENDPOINT = "http://115.115.91.60:5432/train"
-#API_ENDPOINT = "http://27db-115-119-250-30.ngrok.io/train"
+#API_ENDPOINT = "http://115.115.91.60:5432/train"
+API_ENDPOINT = "http://b6a5-115-119-250-30.ngrok.io/train"
 # data to be sent to api
 data = {
 	"url": "https://github.com/yashtest11111/test1.git",
