@@ -1,4 +1,4 @@
-name: tut11
+name: tut111
 channels:
   - conda-forge
 dependencies:
@@ -9,4 +9,3 @@ dependencies:
     - mlflow>=1.0
     - boto3
     - pandas
-    - numpy
